@@ -1,0 +1,14 @@
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\bin\Debug\net8.0\ex2lab1.exe
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\bin\Debug\net8.0\ex2lab1.deps.json
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\bin\Debug\net8.0\ex2lab1.runtimeconfig.json
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\bin\Debug\net8.0\ex2lab1.dll
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\bin\Debug\net8.0\ex2lab1.pdb
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ex2lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ex2lab1.AssemblyInfoInputs.cache
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ex2lab1.AssemblyInfo.cs
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ex2lab1.csproj.CoreCompileInputs.cache
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ex2lab1.dll
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\refint\ex2lab1.dll
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ex2lab1.pdb
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ex2lab1.genruntimeconfig.cache
+C:\Users\Cata\Documents\II\ex2lab1\ex2lab1\obj\Debug\net8.0\ref\ex2lab1.dll
