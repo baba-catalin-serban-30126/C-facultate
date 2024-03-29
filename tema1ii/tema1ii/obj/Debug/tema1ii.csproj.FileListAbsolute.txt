@@ -1,0 +1,10 @@
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\bin\Debug\tema1ii.exe.config
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\bin\Debug\tema1ii.exe
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\bin\Debug\tema1ii.pdb
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\obj\Debug\tema1ii.csproj.AssemblyReference.cache
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\obj\Debug\tema1ii.Form1.resources
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\obj\Debug\tema1ii.Properties.Resources.resources
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\obj\Debug\tema1ii.csproj.GenerateResource.cache
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\obj\Debug\tema1ii.csproj.CoreCompileInputs.cache
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\obj\Debug\tema1ii.exe
+C:\Users\Cata\Documents\II\tema1ii\tema1ii\obj\Debug\tema1ii.pdb
